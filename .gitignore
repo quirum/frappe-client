@@ -8,3 +8,9 @@ logply/config.py
 _build/
 MANIFEST
 env/
+ass*.py
+cre*.py
+tes*.py
+up*.py
+dn*
+reg*.gz
