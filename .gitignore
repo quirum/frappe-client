@@ -13,4 +13,9 @@ cre*.py
 tes*.py
 up*.py
 dn*
+file*
+log*
+root*
+che*
+scr*/
 reg*.gz
